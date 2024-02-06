@@ -43,11 +43,11 @@ body{
 .my-cool-btn:hover span:before{
   transform: scale(0.8);
 }
-.my-cool-btn .dots-container{
+/* .my-cool-btn .dots-container{
   opacity: 0;
   animation: intro 1.6s;
   animation-fill-mode: forwards;
-}
+} */
 .my-cool-btn .dot{
   width: 8px;
   height: 8px;
